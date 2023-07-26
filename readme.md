@@ -25,7 +25,7 @@ The repository is organized as follows:
 
 ## Interactive Notebook (Google Colab)
 
-Click [here](https://colab.research.google.com/drive/1Iq-hsQc8jB3m7pcfZTnIPvNG0yqQD243?authuser=1#scrollTo=ka3pC9lAdbEl) to interact with the notebook in Google Colab.
+Click [here](https://colab.research.google.com/drive/1Iq-hsQc8jB3m7pcfZTnIPvNG0yqQD243?usp=sharing) to interact with the notebook in Google Colab.
 
 ## Contact :email:
 
