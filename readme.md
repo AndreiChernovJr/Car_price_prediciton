@@ -21,7 +21,8 @@ The model's performance is evaluated using the Root Mean Squared Error (RMSE), a
 The repository is organized as follows:
 
 - `autos.csv/`: Contains the historical data used for training and testing the model.
-- `car_price.ipyb/`: Jupyter notebooks showcasing the data analysis, model development, and evaluation processes.
+- `car_price_rus.ipyb/`: Jupyter notebook showcasing the data analysis, model development, and evaluation processes in russian as it was originally created.
+- `car_price_naked_eng.ipyb/`: Jupyter notebook with same code, headings in english and deleted text blocks for more convenient code review.
 
 ## Interactive Notebook (Google Colab)
 
